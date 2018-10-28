@@ -65,7 +65,7 @@ void unionset(ll a,ll b)
 }
 int main()
 {
-
+ios_base::sync_with_stdio(false);
        ll n,m;
        scanf("%lld %lld",&n,&m);
        ll ar[n+1];
